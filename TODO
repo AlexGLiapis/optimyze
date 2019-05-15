@@ -1,0 +1,25 @@
+TODO
+
+- General
+- Problem Analysis
+  - Coninuity
+  - Differentiability
+  - Convexity
+- Problem Types & Algorithms
+  - Unconstrained (Stationary & Convex)
+    - Newton's Method
+    - Quasi Newton's Method
+    - Steepest Descent
+    - Conjugate Gradient
+    - Nelder Mead Method
+  - Linear
+    - Simplex
+  - Non-Linear (F.O.KKT & S.O KKT)
+    - Sequential Quadratic Programming
+    - Interior Point Method
+    - Generalized Reduced Gradient
+  - Linear Mixed-Integer
+  - Non-Linear Mixed Integer
+- Other
+  - Sensitivity Analysis
+  - Duality
