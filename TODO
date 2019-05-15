@@ -5,7 +5,9 @@ TODO
   - Coninuity
   - Differentiability
   - Convexity
-- Problem Types & Algorithms
+  - Sensitivity Analysis
+  - Duality
+- Problem Types & Algorithms (Optimal Solution Conditions)
   - Unconstrained (Stationary & Convex)
     - Newton's Method
     - Quasi Newton's Method
@@ -14,12 +16,14 @@ TODO
     - Nelder Mead Method
   - Linear
     - Simplex
-  - Non-Linear (F.O.KKT & S.O KKT)
+  - Non-Linear (F.O KKT & S.O KKT)
     - Sequential Quadratic Programming
     - Interior Point Method
     - Generalized Reduced Gradient
-  - Linear Mixed-Integer
-  - Non-Linear Mixed Integer
-- Other
-  - Sensitivity Analysis
-  - Duality
+  - Linear/Non-Linear Mixed Integer (Relxation & Boundary)
+    - Branch & Bound
+    - Outer Approximation
+    - Hybrid Approaches
+    - Spatial Branch & Bound
+    - Domain Reduction
+
